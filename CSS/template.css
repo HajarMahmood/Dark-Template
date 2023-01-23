@@ -161,7 +161,7 @@ header nav ul {
     top: 100%;
     left: 0;
     width: 100%;
-    background-color: rgba(221, 221, 221, 0.24);
+    background-color: rgb(33 33 33 / 90%);
   }
 
   header nav ul li a {
